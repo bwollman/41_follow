@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e7bdbc7-9740-4431-b8c3-f73f11fb4bb3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Close.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestComponentBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/JTextComponentDestinationEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/NoFontFamilySelectedException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/About.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/font/InvalidFontException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestClear.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/io/OutputDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestWordResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/WhatIsThis$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/FileFollowerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/page_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/TestPrintStreamDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Reset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/font/NoFontStyleSelectedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/ExternalEditor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/DisableableConfirm$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/About.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/Top.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/WhatIsThisEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/ExternalEditorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Exit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/cog_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/systemInterface/DefaultSystemInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/BaseTestCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestFollowAppAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/event/WindowTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$CfgDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/ClearAll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/WhatIsThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/io/JTextPaneDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/CommandLineTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/config/TestFollowAppAttributes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestLineResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/config/FollowAppAttributes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/nav/control_rewind_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/TestBottom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Open.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/control_repeat_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/ToolBar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/FindDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/comments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$CfgDialog$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestDndFileOpener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/BottomEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Debug.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/followApp.properties.prototype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/PreviousTab.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/FileFollower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Menu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/LineResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/LineResult.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/LineEditorKit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/PopupMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/NoFontStyleSelectedException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/EnumeratedProperties.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/nav/NextTab.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/ClearAllHighlightsEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/ClearHighlights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowApp$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/FileFollowingPane.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestClose.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestExternalEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/41_follow.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/nav/PreviousTab.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel$PublicChangeObservable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/DndFileOpener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/PrintStreamDestinationEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/AppLaunchingTestCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/ClearAllHighlights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/DeleteAll.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/FileFollowerEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Open.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/TestFilteredDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/comments_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestAbout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/control_rewind_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestEdit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestFindDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-files/inheritance.xml.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/TopTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/LineEditorKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$CfgDialog$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Close.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/control_pause_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/font/TestFontSelectionPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/search/magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/TestTop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/nav/bullet_arrow_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/FollowApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/io/JTextComponentDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/control_repeat_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestDisableableConfirm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowAppResourceBundle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/ComponentBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestDelete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/FindEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/comments_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/WordResult.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/config/Configure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/page_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/TestPreviousTab.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestClearAllHighlights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/TestFileFollower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/systemInterface/SystemInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/ComponentBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestToolBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestLineTextUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/TestNextTab.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/systemInterface/DefaultSystemInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/follow.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/page_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/config/cog_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/NoFontSizeSpecifiedException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestStartupStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Clear.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowApp$RecentFileListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/TestSystemInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-files/evosuite.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowApp$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Pause.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/JTextComponentDestinationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/LineTextUI$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/LineResultEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/io/FilterableOutputDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/io/PrintStreamDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestSearchableTextPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/TabbedPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/Find.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/PrintStreamDestinationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/control_play_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$CfgDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/bullet_arrow_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/io/JTextPaneDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/TabbedPane.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/io/OutputDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/LineView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/comments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/SearchableTextPane.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/SearchEngine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/LineTextUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/ClearAllHighlights.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestSearchEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/TopEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/config/followApp.properties.prototype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestLineView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Edit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/FilteredDestinationEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/TestJTextComponentDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestLineEditorKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/event/TestWindowTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$CfgDialog$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/FollowAppAction$ActionContext.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestPopupMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/FileFollowingPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/SearchEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/control_fastforward_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/font/NoFontFamilySelectedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/StartupStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestReset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestFind.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/SearchableTextPaneEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Exit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Pause.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/FollowAppAttributes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/systemInterface/SystemInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/control_play_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/Find.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestPause.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/io/FilterableOutputDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/PreviousTabEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/TestClearHighlights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/door_in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/io/PrintStreamDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$CfgFontSelectionPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/InvalidFontSizeException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/font/InvalidFontSizeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/page_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/FollowAppEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/LineTextUI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/WordResultEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/DeleteAll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/LineView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/FollowAppAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/ClearAll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/page_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestDebug.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/nav/Bottom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FileFollower$Runner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Clear.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/io/JTextComponentDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Edit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/DndFileOpener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/event/WindowTracker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/door_in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/TestFollowApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/config/EnumeratedProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Delete.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/StartupStatus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/TestFilterableOutputDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/JTextPaneDestinationEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$TabPlacementValue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowApp$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/FilterableOutputDestinationEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/SearchEngineEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/page_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/WordResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/DisableableConfirm$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/io/FilteredDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/FindDialog$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/information.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel$ListCellRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/comment_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowApp$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel$FontStyleList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/systemInterface/TestDefaultSystemInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/Bottom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/font/FontSelectionPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/control_pause_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestExit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Reset.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestOpen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/comment_delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/FindDialogEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/search/SearchableTextPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/DisableableConfirm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/StartupStatus$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/InvalidVkException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-lib/junit-4.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/InvalidFontException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestWhatIsThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/nav/control_fastforward_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/InvalidVkException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/config/TestEnumeratedProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/config/Configure$BooleanComboBox.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/ClearHighlights.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/FollowAppAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/nav/NextTabEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/ToolBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/font/NoFontSizeSpecifiedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/DisableableConfirm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/nav/bullet_arrow_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/search/ClearHighlightsEvoSuiteTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/io/FilteredDestination.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/NextTab.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/WhatIsThis.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/gui/information.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestTabbedPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/ExternalEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/nav/Top.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/config/TestConfigure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestDeleteAll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestClearAll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/BottomTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/io/TestJTextPaneDestination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/ghm/follow/FollowAppResourceBundle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/Delete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/evosuite-tests/ghm/follow/gui/TestFileFollowingPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel$PhraseCanvas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/search/magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FileFollower.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/StartupStatus$Task.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/font/FontSelectionPanel$FontSizeSynchronizer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/gui/Debug.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ghm/follow/gui/PopupMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/FollowApp$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/ghm/follow/nav/bullet_arrow_top.png" />
+    </list>
+    <ignored path="41_follow.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="41_follow" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/AppLaunchingTestCase.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="41_follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="41_follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="41_follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/cmd" />
+  </component>
+  <component name="RunManager" selected="Application.Follow">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="Follow" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ghm.follow.FollowApp" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="41_follow" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestFollow" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="41_follow" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="ghm.follow.test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Follow" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestFollow" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Brian\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e7bdbc7-9740-4431-b8c3-f73f11fb4bb3" name="Default" comment="" />
+      <created>1424641911173</created>
+      <option name="number" value="Default" />
+      <updated>1424641911173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="698" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5186441" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/AppLaunchingTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.11.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37155962" vertical-offset="1058" max-vertical-offset="5168">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ghm/follow/test/FileFollowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1551" max-vertical-offset="2006">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ghm/follow/test/gui/AppLaunchingTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.59375" vertical-offset="170" max-vertical-offset="1462">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info/exclude">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="256">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HEAD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="256">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/description">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="256">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24199288" vertical-offset="0" max-vertical-offset="562">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>41_follow</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
